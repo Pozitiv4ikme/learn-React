@@ -11,12 +11,13 @@ header {
 
     nav {
         display: flex;
+        width: 100%;
+        justify-content: space-between;
 
         & > h1 {
             font-family: Inter-Bold;
             font-size: 1.6em;
             color: #61DAFB;
-            margin-right: 58vw;
             margin-left: 1vw;
         }
 
